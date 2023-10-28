@@ -29,7 +29,7 @@ def circulate():
 ```
 ## Output:
 
-![out](output.png)
+![out](out.png)
 
 ## Result:
 exp completed
