@@ -29,9 +29,9 @@ def circulate():
 ```
 ## Output:
 
-![out](out.png)
+![out](/out.png)
 
 ## Result:
-exp completed
+
 
 Thus the circulate n variables are successfully executed
